@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:9fef00&height=220&section=header&text=Thanos&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20student%20%7C%20Aspiring%20Pentester&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1E88C7&height=220&section=header&text=Thanos&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20student%20%7C%20Aspiring%20Pentester&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=9FEF00&center=true&vCenter=true&width=640&lines=root%40thanos%3A~%23+whoami;ICSD+student+%40+University+of+the+Aegean+%F0%9F%87%AC%F0%9F%87%B7;Breaking+things+on+HTB+to+learn+how+to+secure+them;Building+web+projects+that+actually+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=5BC0EB&center=true&vCenter=true&width=800&lines=root%40thanos%3A~%23+whoami;ICSD+student+%40+University+of+the+Aegean+%F0%9F%87%AC%F0%9F%87%B7;Breaking+things+on+HTB+to+learn+how+to+secure+them;Building+web+projects+that+actually+ship" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -55,15 +55,15 @@ I'm working through the **HTB Academy Penetration Tester path**, hands-on, lab b
 `Nibbles` · `Touch` · `TwoMillion`
 
 ### 🧰 Tools I use in the labs
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=9FEF00)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=9FEF00)
-![Hashcat](https://img.shields.io/badge/Hashcat-0d1117?style=flat-square&logoColor=9FEF00)
-![John](https://img.shields.io/badge/John_the_Ripper-0d1117?style=flat-square&logoColor=9FEF00)
-![Hydra](https://img.shields.io/badge/Hydra-0d1117?style=flat-square&logoColor=9FEF00)
-![Impacket](https://img.shields.io/badge/Impacket-0d1117?style=flat-square&logoColor=9FEF00)
-![NetExec](https://img.shields.io/badge/NetExec-0d1117?style=flat-square&logoColor=9FEF00)
-![Nessus](https://img.shields.io/badge/Nessus-0d1117?style=flat-square&logo=tenable&logoColor=9FEF00)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=9FEF00)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=5BC0EB)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=5BC0EB)
+![Hashcat](https://img.shields.io/badge/Hashcat-0d1117?style=flat-square&logoColor=5BC0EB)
+![John](https://img.shields.io/badge/John_the_Ripper-0d1117?style=flat-square&logoColor=5BC0EB)
+![Hydra](https://img.shields.io/badge/Hydra-0d1117?style=flat-square&logoColor=5BC0EB)
+![Impacket](https://img.shields.io/badge/Impacket-0d1117?style=flat-square&logoColor=5BC0EB)
+![NetExec](https://img.shields.io/badge/NetExec-0d1117?style=flat-square&logoColor=5BC0EB)
+![Nessus](https://img.shields.io/badge/Nessus-0d1117?style=flat-square&logo=tenable&logoColor=5BC0EB)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=5BC0EB)
 
 ---
 
@@ -108,6 +108,6 @@ I'm working through the **HTB Academy Penetration Tester path**, hands-on, lab b
 
 *"The more you sweat in training, the less you bleed in battle."* 🏴
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9fef00,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88C7,100:0a2540&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
