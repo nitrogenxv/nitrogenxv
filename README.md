@@ -10,10 +10,10 @@
 
 <br/>
 
-![HTB Academy](https://img.shields.io/badge/HackTheBox-Academy-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Path](https://img.shields.io/badge/Path-Penetration_Tester-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=9FEF00)
-![Uni](https://img.shields.io/badge/University_of_the_Aegean-ICSD-1f6feb?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based_in-Greece_🇬🇷-0d1117?style=for-the-badge)
+![HTB Academy](https://img.shields.io/badge/HackTheBox-Academy-0D5EAF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0A2540)
+![Path](https://img.shields.io/badge/Path-Penetration_Tester-1E88C7?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=0A2540)
+![Uni](https://img.shields.io/badge/University_of_the_Aegean-ICSD-5BC0EB?style=for-the-badge&labelColor=0A2540)
+![Location](https://img.shields.io/badge/Based_in-Greece-0D5EAF?style=for-the-badge&labelColor=0A2540)
 
 </div>
 
@@ -27,6 +27,7 @@ name      : Thanos
 studies   : Information & Communication Systems Engineering @ Univ. of the Aegean
 focus     : Cybersecurity · Privacy · Pentesting
 currently : HTB Academy → Penetration Tester Job Role Path
+goal      : CPTS certification, then SOC Analyst path
 languages : Greek, English
 status    : Open to cybersecurity internships 🔓
 ```
@@ -35,7 +36,7 @@ status    : Open to cybersecurity internships 🔓
 
 ## 🔐 Security journey
 
-I'm working through the **HTB Academy Penetration Tester path**, hands-on, lab by lab.
+I'm working through the **HTB Academy Penetration Tester path**, hands-on, lab by lab, with the **CPTS** exam as the goal. After that I plan to move on to the **SOC Analyst** path.
 
 | Status | Module |
 |:--:|--|
@@ -71,9 +72,13 @@ I'm working through the **HTB Academy Penetration Tester path**, hands-on, lab b
 | Project | What it is | Stack |
 |--|--|--|
 | 🏖️ **L.A. Home** | Production multilingual website for a seafront rental: 7-language i18n engine, booking form with date picker, gallery, legal modals | HTML · CSS · Vanilla JS |
-| 🏡 **Real Estate Template** | Reusable website template for agencies: listings with search/filters, admin dashboard, lead capture, bilingual, SEO | Flask · Firebase · Vanilla JS |
+| 🏡 **Prantsidis Real Estate** | Live site for a real estate agency in Komotini: listings with search/filters, admin dashboard, lead capture, bilingual, SEO | Firebase Hosting · Cloud Functions · Vanilla JS |
+| 🏘️ **Komotini Properties** | Live site for a second Komotini agency with its own brand: build pipeline, broker admin portal with stats and view charts, leads inbox, dark mode | Firebase Hosting · Firestore · Node |
 | 📚 **Distributed Digital Library** | Client-server app over TCP sockets with serialized objects and a Swing GUI | Java |
 | 🛡️ **ISO 27000 Risk Assessment** | FMEA-based risk analysis of a university department's IT assets, 50 assets and 60+ risk chains, generated with Python | Python · openpyxl |
+| 🌡️ **"IoT sensor pipeline"** | DHT11 temperature/humidity and PIR motion sensors pushing live data to ThingSpeak from an Arduino MKR WAN board | Arduino · C++ · ThingSpeak |
+| 🏧 **"Breaking the ATM"** | ATM modelled as a birth–death Markov chain, steady state solved and cross-checked with Python, plus an interactive state visualization | Python · HTML/JS |
+| 🏭 **"Rush hour simulator"** | Discrete-event simulation with non-homogeneous Poisson arrivals per shift | Arena · Python |
 | 🧠 **Memory Game** | OOP refactoring exercise with a JavaFX UI | Java · JavaFX |
 
 ---
@@ -93,22 +98,12 @@ I'm working through the **HTB Academy Penetration Tester path**, hands-on, lab b
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitrogenxv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9fef00&icon_color=9fef00" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitrogenxv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9fef00" alt="top languages" />
-
-</div>
-
----
-
 ## 📫 Let's connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanos-laitsas)
+[![Email](https://img.shields.io/badge/Email-laitsasthanos%40gmail.com-0D5EAF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A2540)](mailto:laitsasthanos@gmail.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/01a0afc6-8f1c-71ca-99cb-fb8de38041d3)
 
 *"The more you sweat in training, the less you bleed in battle."* 🏴
